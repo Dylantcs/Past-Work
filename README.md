@@ -8,5 +8,6 @@ List of Business Insight projects:
 List of Machine Learning projects:
 1. Malaria Detection Project
 2. Bitcoin Price Prediction Project
+3. Logistic Regression Optimisation
 
 If you have any other queries or want to know about any of the project above, do contact me at dylantcs@gmail.com. I will be happy to chat!
